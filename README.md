@@ -98,7 +98,7 @@ Required features
 
 - Display the number of moves made by the player so far.
 
-\section{Advanced features}
+## Advanced features
 
 Tasks described in this section are much more difficult and only required for a distinction.
 
